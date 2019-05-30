@@ -1,4 +1,7 @@
 # express-gateway-plugin-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/bgdsh/express-gateway-plugin-logger.svg)](https://greenkeeper.io/)
+
 Generic plugin example for [Express Gateway](http://www.express-gateway.io/)
 
 It shows all extension points available in the Express Gateway Plugin Engine 1.2.0
